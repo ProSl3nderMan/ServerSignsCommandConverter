@@ -1,0 +1,7 @@
+name: ServerSignsCommandConverter
+version: 1.0-SNAPSHOT
+main: me.prosl3nderman.serversignscommandconverter.ServerSignsCommandConverter
+depend: [ServerSigns]
+commands:
+  sscc:
+    description: Server Signs Commands Converter command.

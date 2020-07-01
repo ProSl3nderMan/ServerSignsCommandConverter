@@ -1,0 +1,3 @@
+convertCommands:
+  - manuaddp <player> <value1>|lp user <player> permission set <value1>
+  - manuaddv <player> prefix <value1>|lp user <player> meta setprefix <value1>
